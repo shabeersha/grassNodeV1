@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "http-proxy-agent": "^7.0.2",
+    "proxy-agent": "^6.4.0",
+    "random-useragent": "^0.5.0",
+    "set-interval-async": "^3.0.3",
+    "socks-proxy-agent": "^8.0.5",
+    "uuid": "^11.0.3",
+    "ws": "^8.18.0"
+  }
+}
